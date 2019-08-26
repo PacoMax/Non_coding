@@ -1,4 +1,4 @@
-# Non_coging DNA
+# Non_coding DNA
 
 Quantify the non-coding DNA part from a genbank annotation file.
 
