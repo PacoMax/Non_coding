@@ -6,6 +6,6 @@ The program gets a count table with variables related to coding and noncoding DN
 
 Inside the directory write: 
 
-    non_cod.pl
+   non_cod.pl
 		
 
